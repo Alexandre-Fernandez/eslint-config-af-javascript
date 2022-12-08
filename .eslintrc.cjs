@@ -16,6 +16,7 @@ module.exports = {
 		"no-restricted-syntax": "off",
 		"no-continue": "off",
 		"no-empty": "off",
+		"no-new-func": "warn",
 		"class-methods-use-this": "off",
 		"eslint-comments/no-use": "warn",
 		"filenames/match-regex": "off",

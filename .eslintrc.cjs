@@ -20,6 +20,7 @@ module.exports = {
 		"eslint-comments/no-use": "warn",
 		"filenames/match-regex": "off",
 		"i18n-text/no-en": "off",
+		"github/no-dynamic-script-tag": "warn",
 		"import/no-unresolved": "error",
 		"import/no-namespace": "off",
 		"import/extensions": "off",

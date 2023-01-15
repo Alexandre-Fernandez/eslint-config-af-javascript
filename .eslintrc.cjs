@@ -22,6 +22,7 @@ module.exports = {
 		"filenames/match-regex": "off",
 		"i18n-text/no-en": "off",
 		"github/no-dynamic-script-tag": "warn",
+		"import/no-cycle": "off",
 		"import/no-unresolved": "error",
 		"import/no-namespace": "off",
 		"import/extensions": "off",

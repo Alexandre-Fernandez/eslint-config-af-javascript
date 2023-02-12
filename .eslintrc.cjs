@@ -36,6 +36,6 @@ module.exports = {
 		"unicorn/prefer-top-level-await": "off",
 		"unicorn/no-array-reduce": "off",
 		"unicorn/no-await-expression-member": "off",
-		"sonarjs/cognitive-complexity": ["error", 16],
+		"sonarjs/cognitive-complexity": "off",
 	},
 }

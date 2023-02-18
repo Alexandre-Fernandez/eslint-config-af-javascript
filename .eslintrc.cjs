@@ -17,6 +17,7 @@ module.exports = {
 		"arrow-body-style": "off",
 		"no-continue": "off",
 		"no-empty": "off",
+		"new-cap": "off",
 		"no-console": "warn",
 		"no-new-func": "warn",
 		"eslint-comments/no-use": "warn",

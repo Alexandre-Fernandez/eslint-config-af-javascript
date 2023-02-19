@@ -10,7 +10,6 @@ module.exports = {
 	plugins: ["import", "github", "sonarjs", "unicorn"],
 	ignorePatterns: ["eslintrc.*", ".eslintrc.*"],
 	rules: {
-		"no-param-reassign": ["error", { props: false }],
 		"class-methods-use-this": "off",
 		"no-use-before-define": "off",
 		"no-restricted-syntax": "off",

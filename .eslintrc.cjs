@@ -14,6 +14,7 @@ module.exports = {
 		"no-use-before-define": "off",
 		"no-restricted-syntax": "off",
 		"no-param-reassign": "off",
+		"no-await-in-loop": "warn",
 		"arrow-body-style": "off",
 		"no-continue": "off",
 		"no-shadow": "off",

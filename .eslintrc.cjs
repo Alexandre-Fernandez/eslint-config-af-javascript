@@ -39,6 +39,7 @@ module.exports = {
 		"unicorn/prefer-optional-catch-binding": "off",
 		"unicorn/prefer-top-level-await": "off",
 		"unicorn/no-array-reduce": "off",
+		"unicorn/no-static-only-class": "off",
 		"unicorn/no-await-expression-member": "off",
 		"sonarjs/cognitive-complexity": "off",
 	},

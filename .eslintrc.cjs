@@ -20,7 +20,7 @@ module.exports = {
 		"no-shadow": "off",
 		"no-empty": "off",
 		"new-cap": "off",
-		"no-console": "warn",
+		"no-console": ["warn", { allow: ["warn", "error"] }],
 		"no-new-func": "warn",
 		"eslint-comments/no-use": "off",
 		"filenames/match-regex": "off",

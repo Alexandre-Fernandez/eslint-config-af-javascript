@@ -42,5 +42,6 @@ module.exports = {
 		"unicorn/no-static-only-class": "off",
 		"unicorn/no-await-expression-member": "off",
 		"sonarjs/cognitive-complexity": "off",
+		"unicorn/no-array-callback-reference": "off",
 	},
 }

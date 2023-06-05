@@ -22,6 +22,7 @@ module.exports = {
 		"new-cap": "off",
 		"no-console": ["warn", { allow: ["warn", "error"] }],
 		"no-new-func": "warn",
+		"no-bitwise": "warn",
 		"eslint-comments/no-use": "off",
 		"filenames/match-regex": "off",
 		"i18n-text/no-en": "off",

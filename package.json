@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-af-javascript",
-	"version": "1.10.1",
+	"version": "1.11.0",
 	"author": "alexandre-fernandez",
 	"description": "JavaScript eslint configuration.",
 	"keywords": [

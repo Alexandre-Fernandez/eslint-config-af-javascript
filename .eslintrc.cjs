@@ -20,6 +20,7 @@ module.exports = {
 		"no-shadow": "off",
 		"no-empty": "off",
 		"new-cap": "off",
+		"no-fallthrough": "warn",
 		"no-console": ["warn", { allow: ["warn", "error"] }],
 		"no-new-func": "warn",
 		"no-bitwise": "warn",

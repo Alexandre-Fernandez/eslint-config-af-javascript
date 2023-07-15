@@ -37,6 +37,7 @@ module.exports = {
 		"unicorn/no-null": "off",
 		"unicorn/prefer-module": "off",
 		"unicorn/no-useless-undefined": "off",
+		"unicorn/no-typeof-undefined": "off",
 		"unicorn/filename-case": "off",
 		"unicorn/prevent-abbreviations": "off",
 		"unicorn/prefer-optional-catch-binding": "off",

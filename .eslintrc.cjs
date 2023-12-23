@@ -33,6 +33,7 @@ module.exports = {
 		"import/no-namespace": "off",
 		"import/extensions": "off",
 		"import/prefer-default-export": "off",
+		"import/no-relative-packages": "off",
 		"sonarjs/cognitive-complexity": "off",
 		"unicorn/no-null": "off",
 		"unicorn/prefer-module": "off",
@@ -47,5 +48,6 @@ module.exports = {
 		"unicorn/no-await-expression-member": "off",
 		"unicorn/expiring-todo-comments": "off",
 		"unicorn/no-array-callback-reference": "off",
+		"unicorn/no-new-array": "off",
 	},
 }

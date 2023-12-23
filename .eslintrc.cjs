@@ -49,5 +49,7 @@ module.exports = {
 		"unicorn/expiring-todo-comments": "off",
 		"unicorn/no-array-callback-reference": "off",
 		"unicorn/no-new-array": "off",
+		"unicorn/no-process-exit": "off",
+		"unicorn/no-useless-promise-resolve-reject": "off",
 	},
 }
